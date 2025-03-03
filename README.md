@@ -1,5 +1,3 @@
-Aquí tienes un archivo `README.md` completo para tu proyecto de gestión de reportes. Este archivo proporciona una descripción clara del proyecto, cómo configurarlo, cómo ejecutarlo y otros detalles relevantes.
-
 ```markdown
 # Gestión de Reportes 📊
 
