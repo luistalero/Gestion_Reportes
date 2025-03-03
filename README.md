@@ -10,6 +10,7 @@ Este proyecto implementa un sistema de generación y descarga de reportes en dif
 El proyecto sigue la siguiente estructura de carpetas:
 
 ```
+```bash
 gestion_reportes
 └── src/main/java
     └── com.gestion_reportes
